@@ -1,0 +1,401 @@
+Employee_ID,Age,Gender,Department,Job_Role,Salary,Performance_Rating,Hire_Date,Years_of_Experience,City,Education,Work_Mode,Attrition
+E001,22,Female,Operations,Operations Executive,51000,3,2025-04-05,0,Delhi,Bachelor's,Remote,No
+E002,22,Male,Sales,Sales Executive,45000,3,2023-10-02,0,Chennai,Diploma,On-site,No
+E003,21,Male,Sales,Business Development Executive,59000,3,2018-09-29,0,Bengaluru,Bachelor's,On-site,No
+E004,43,Female,Sales,Sales Executive,70000,3,2017-06-27,17,Pune,Diploma,On-site,No
+E005,44,Male,Marketing,Marketing Analyst,39000,2,2019-07-23,18,Pune,Master's,On-site,No
+E006,50,Female,Sales,Business Development Executive,42000,3,2019-05-09,21,Chennai,Bachelor's,Remote,No
+E007,55,Male,Operations,Operations Analyst,46000,4,2020-01-11,25,Mumbai,MBA,On-site,No
+E008,41,Female,Finance,Financial Analyst,55000,2,2023-05-13,16,Chennai,Diploma,Hybrid,No
+E009,30,Female,Operations,Operations Manager,44000,3,2023-04-19,7,Delhi,Diploma,Remote,No
+E010,35,Male,Sales,Business Development Executive,64000,4,2025-06-23,7,Mumbai,Master's,Remote,No
+E011,45,Female,Sales,Sales Executive,70000,5,2022-12-08,15,Nashik,Bachelor's,Remote,No
+E012,55,Female,Operations,Operations Executive,57000,2,2021-11-16,21,Chennai,MBA,Remote,No
+E013,40,Male,Finance,Financial Analyst,47000,3,2018-10-24,14,Delhi,Bachelor's,Remote,No
+E014,22,Male,HR,Training Coordinator,64000,3,2020-06-13,0,Delhi,Bachelor's,On-site,Yes
+E015,25,Male,Operations,Operations Manager,44000,4,2023-03-02,1,Nashik,Diploma,On-site,No
+E016,40,Female,Marketing,Digital Marketing Specialist,58000,3,2022-10-21,13,Mumbai,Bachelor's,Hybrid,No
+E017,35,Male,IT,Data Analyst,46000,4,2017-08-30,8,Pune,MBA,On-site,Yes
+E018,38,Female,Marketing,Digital Marketing Specialist,48000,4,2025-02-10,13,Mumbai,Diploma,Hybrid,No
+E019,27,Female,Finance,Financial Analyst,60000,3,2022-03-28,7,Chennai,Bachelor's,On-site,No
+E020,27,Male,Sales,Business Development Executive,44000,3,2022-01-12,2,Bengaluru,Diploma,On-site,No
+E021,27,Male,IT,QA Engineer,83000,5,2017-03-02,1,Nashik,Master's,On-site,No
+E022,51,Male,Sales,Sales Manager,57000,5,2018-11-06,20,Hyderabad,MBA,Hybrid,Yes
+E023,52,Male,HR,Training Coordinator,41000,3,2017-08-28,22,Pune,MBA,On-site,No
+E024,53,Male,IT,QA Engineer,45000,5,2017-11-25,24,Delhi,Bachelor's,Remote,No
+E025,28,Male,Finance,Payroll Specialist,40000,4,2021-09-14,7,Delhi,MBA,Hybrid,No
+E026,36,Female,Finance,Finance Executive,63000,2,2024-03-28,9,Nashik,Bachelor's,On-site,No
+E027,25,Male,Sales,Sales Executive,64000,3,2020-11-30,0,Bengaluru,MBA,On-site,No
+E028,54,Male,Sales,Business Development Executive,67000,3,2024-06-10,19,Mumbai,MBA,On-site,No
+E029,38,Female,IT,Data Analyst,80000,3,2020-11-05,10,Nashik,MBA,Remote,No
+E030,24,Male,Sales,Business Development Executive,59000,5,2017-06-30,0,Mumbai,MBA,On-site,No
+E031,48,Male,Operations,Operations Manager,43000,2,2024-10-01,16,Nashik,MBA,Remote,No
+E032,48,Male,Marketing,Digital Marketing Specialist,37000,3,2025-12-05,21,Bengaluru,Master's,Remote,Yes
+E033,43,Female,Finance,Financial Analyst,47000,5,2019-08-28,18,Nashik,Master's,Hybrid,No
+E034,42,Female,IT,Data Analyst,84000,5,2019-10-14,13,Chennai,Bachelor's,Hybrid,No
+E035,35,Male,IT,QA Engineer,71000,3,2025-12-02,13,Pune,Master's,Hybrid,No
+E036,25,Female,HR,HR Analyst,46000,4,2021-06-26,5,Delhi,MBA,On-site,No
+E037,32,Female,IT,System Administrator,44000,2,2021-11-15,7,Bengaluru,Diploma,Remote,No
+E038,45,Male,Marketing,Marketing Executive,51000,2,2021-11-22,13,Nashik,Master's,Hybrid,No
+E039,42,Female,Sales,Sales Executive,39000,4,2020-05-15,15,Hyderabad,MBA,Hybrid,No
+E040,29,Male,Operations,Process Coordinator,62000,4,2021-04-02,8,Mumbai,MBA,Hybrid,No
+E041,40,Female,Marketing,Marketing Executive,48000,3,2023-07-04,14,Hyderabad,Diploma,Hybrid,No
+E042,53,Female,Operations,Operations Analyst,46000,4,2020-03-08,22,Delhi,MBA,On-site,No
+E043,35,Male,Finance,Finance Executive,47000,1,2019-09-30,10,Nashik,Bachelor's,Hybrid,No
+E044,45,Female,Sales,Sales Analyst,57000,3,2024-05-11,18,Nashik,Bachelor's,Hybrid,Yes
+E045,54,Female,Finance,Accountant,41000,4,2018-05-13,22,Hyderabad,MBA,Hybrid,No
+E046,49,Male,Marketing,Content Specialist,65000,4,2025-06-07,17,Bengaluru,Diploma,Remote,No
+E047,49,Male,Finance,Finance Executive,56000,3,2020-10-07,18,Pune,Master's,On-site,No
+E048,30,Male,Finance,Payroll Specialist,42000,3,2020-09-17,7,Pune,Master's,Hybrid,No
+E049,45,Female,Sales,Sales Executive,32000,5,2020-05-08,19,Nashik,Diploma,Remote,No
+E050,52,Male,Operations,Operations Analyst,53000,3,2017-04-29,21,Chennai,Diploma,Remote,No
+E051,29,Male,Finance,Payroll Specialist,63000,4,2024-06-08,3,Hyderabad,Master's,Hybrid,No
+E052,37,Female,Finance,Financial Analyst,58000,3,2020-08-31,10,Hyderabad,MBA,Hybrid,No
+E053,51,Male,HR,HR Executive,58000,4,2020-12-04,18,Nashik,Bachelor's,On-site,No
+E054,22,Male,Finance,Accountant,53000,2,2024-07-05,0,Mumbai,Diploma,Remote,No
+E055,31,Male,HR,HR Analyst,59000,4,2020-06-28,4,Bengaluru,Diploma,Hybrid,No
+E056,25,Male,Operations,Operations Analyst,42000,4,2020-05-20,6,Nashik,Bachelor's,Remote,No
+E057,55,Female,IT,System Administrator,84000,3,2022-09-04,25,Nashik,Diploma,Hybrid,No
+E058,44,Female,IT,QA Engineer,51000,3,2025-03-25,16,Bengaluru,Diploma,Hybrid,No
+E059,41,Male,Sales,Business Development Executive,37000,3,2022-01-21,12,Delhi,Diploma,Hybrid,No
+E060,41,Male,IT,QA Engineer,73000,3,2025-12-12,13,Delhi,MBA,Remote,No
+E061,26,Male,IT,Data Analyst,68000,4,2025-07-03,2,Chennai,Diploma,Hybrid,No
+E062,39,Male,IT,Software Developer,67000,4,2020-06-08,14,Hyderabad,MBA,Hybrid,No
+E063,43,Female,Operations,Process Coordinator,53000,3,2019-08-03,12,Bengaluru,Bachelor's,Remote,No
+E064,33,Male,Marketing,Digital Marketing Specialist,65000,3,2023-08-12,11,Bengaluru,Bachelor's,On-site,No
+E065,44,Male,HR,Recruiter,44000,1,2022-12-28,13,Pune,MBA,Remote,No
+E066,27,Male,Finance,Payroll Specialist,56000,4,2021-12-10,3,Pune,MBA,Hybrid,No
+E067,46,Female,IT,Software Developer,46000,4,2024-09-12,14,Nashik,MBA,On-site,No
+E068,47,Male,Finance,Financial Analyst,71000,3,2021-12-19,16,Hyderabad,MBA,Remote,No
+E069,27,Male,Marketing,Marketing Executive,48000,3,2017-11-29,2,Delhi,Bachelor's,On-site,No
+E070,49,Female,IT,QA Engineer,60000,1,2020-03-26,21,Nashik,Diploma,On-site,No
+E071,37,Male,Operations,Operations Analyst,63000,2,2019-07-10,13,Bengaluru,Master's,On-site,No
+E072,40,Female,IT,Data Analyst,70000,2,2024-09-21,12,Bengaluru,Diploma,Hybrid,No
+E073,48,Female,IT,Software Developer,80000,3,2018-01-10,16,Nashik,Bachelor's,Remote,No
+E074,32,Female,HR,HR Executive,51000,4,2020-02-14,6,Hyderabad,Diploma,On-site,No
+E075,47,Female,Sales,Business Development Executive,52000,4,2018-10-21,16,Hyderabad,MBA,Remote,No
+E076,50,Male,Sales,Sales Executive,52000,3,2018-04-20,22,Delhi,Bachelor's,Remote,No
+E077,47,Male,Marketing,Content Specialist,47000,4,2023-12-26,20,Hyderabad,Bachelor's,On-site,No
+E078,39,Female,HR,Recruiter,63000,4,2018-05-13,9,Delhi,Master's,Remote,No
+E079,21,Female,Finance,Finance Executive,43000,3,2018-04-10,1,Chennai,Master's,Hybrid,No
+E080,53,Female,Operations,Process Coordinator,62000,5,2022-04-19,19,Mumbai,Diploma,On-site,No
+E081,25,Female,Marketing,Digital Marketing Specialist,61000,3,2025-11-01,4,Pune,MBA,Remote,No
+E082,30,Female,HR,Training Coordinator,52000,4,2020-09-23,7,Hyderabad,Diploma,Hybrid,No
+E083,45,Male,Finance,Accountant,64000,2,2025-05-09,16,Nashik,Diploma,Hybrid,No
+E084,52,Male,Operations,Operations Analyst,44000,4,2023-08-15,20,Nashik,Diploma,On-site,No
+E085,21,Male,Marketing,Content Specialist,61000,5,2018-09-25,0,Bengaluru,MBA,Remote,No
+E086,26,Female,Operations,Operations Manager,70000,3,2020-07-21,6,Nashik,Diploma,Remote,No
+E087,36,Female,IT,Software Developer,56000,4,2021-11-13,7,Chennai,Bachelor's,Hybrid,No
+E088,22,Male,Finance,Finance Executive,58000,4,2020-04-16,0,Mumbai,Master's,Remote,No
+E089,31,Male,Sales,Sales Analyst,37000,4,2021-04-16,8,Hyderabad,Master's,On-site,No
+E090,50,Female,Sales,Business Development Executive,32000,5,2022-03-21,18,Mumbai,Bachelor's,Hybrid,No
+E091,48,Female,HR,HR Analyst,49000,5,2019-03-27,18,Pune,Master's,Hybrid,No
+E092,39,Female,Marketing,Marketing Analyst,36000,5,2024-05-20,12,Delhi,Bachelor's,Remote,No
+E093,39,Male,Operations,Operations Manager,58000,3,2019-02-18,13,Nashik,Master's,Remote,No
+E094,40,Female,IT,Software Developer,44000,4,2025-03-19,11,Bengaluru,MBA,Remote,No
+E095,33,Male,Sales,Sales Analyst,66000,5,2021-02-07,9,Bengaluru,Master's,Hybrid,No
+E096,42,Male,Sales,Business Development Executive,61000,5,2018-07-31,17,Nashik,Diploma,Remote,No
+E097,46,Male,HR,HR Executive,43000,4,2022-02-06,16,Chennai,MBA,Remote,No
+E098,27,Male,Sales,Business Development Executive,62000,1,2023-04-19,3,Mumbai,Bachelor's,Remote,No
+E099,47,Male,Sales,Business Development Executive,40000,2,2017-06-02,16,Pune,Bachelor's,On-site,No
+E100,45,Female,Marketing,Digital Marketing Specialist,58000,4,2025-05-02,18,Hyderabad,Master's,Hybrid,No
+E101,52,Female,Operations,Operations Executive,53000,1,2021-02-26,19,Mumbai,MBA,On-site,No
+E102,55,Female,Operations,Process Coordinator,39000,3,2019-02-17,20,Nashik,Diploma,On-site,No
+E103,22,Male,Operations,Operations Analyst,57000,3,2018-05-31,4,Pune,Master's,Remote,No
+E104,42,Male,Finance,Accountant,38000,3,2018-08-16,12,Nashik,Master's,On-site,No
+E105,29,Male,Operations,Operations Executive,58000,4,2019-09-02,7,Mumbai,MBA,On-site,No
+E106,54,Male,Finance,Payroll Specialist,42000,4,2025-09-22,21,Pune,Diploma,Remote,No
+E107,54,Female,Finance,Financial Analyst,67000,4,2017-05-08,19,Nashik,Diploma,Hybrid,No
+E108,52,Female,Operations,Operations Executive,40000,5,2020-08-12,22,Mumbai,MBA,Remote,No
+E109,45,Female,Operations,Process Coordinator,65000,4,2021-10-29,13,Pune,Master's,Hybrid,No
+E110,47,Female,Sales,Sales Analyst,61000,3,2025-03-08,14,Bengaluru,MBA,Hybrid,No
+E111,25,Male,Finance,Payroll Specialist,43000,2,2018-01-31,5,Nashik,Master's,Remote,No
+E112,28,Female,IT,System Administrator,64000,5,2025-06-01,5,Chennai,Bachelor's,Hybrid,No
+E113,43,Male,Marketing,Marketing Analyst,67000,3,2024-05-13,15,Pune,MBA,Remote,No
+E114,38,Male,HR,HR Executive,60000,3,2023-04-17,15,Delhi,Bachelor's,Remote,No
+E115,22,Male,Operations,Process Coordinator,53000,4,2020-06-19,0,Mumbai,Master's,Remote,No
+E116,25,Male,Operations,Operations Manager,37000,2,2022-12-13,1,Hyderabad,MBA,On-site,No
+E117,41,Male,HR,HR Analyst,63000,2,2018-10-07,17,Chennai,Bachelor's,Hybrid,No
+E118,52,Female,Sales,Sales Manager,58000,3,2025-06-20,22,Hyderabad,Bachelor's,Hybrid,No
+E119,54,Female,Operations,Operations Manager,38000,3,2023-09-21,19,Bengaluru,Master's,On-site,Yes
+E120,41,Male,HR,HR Analyst,35000,4,2021-10-30,12,Delhi,Master's,Remote,No
+E121,25,Female,Marketing,Marketing Analyst,37000,3,2022-02-27,0,Delhi,Diploma,Remote,No
+E122,39,Male,Sales,Sales Manager,57000,1,2020-08-23,10,Delhi,Diploma,Remote,No
+E123,48,Male,HR,HR Executive,42000,3,2021-06-29,19,Nashik,MBA,Remote,No
+E124,42,Male,HR,Recruiter,37000,4,2018-04-13,15,Nashik,MBA,Hybrid,No
+E125,36,Male,Operations,Operations Analyst,45000,3,2018-12-12,11,Nashik,Bachelor's,On-site,No
+E126,50,Female,Operations,Operations Manager,56000,5,2024-01-14,18,Pune,Diploma,Hybrid,No
+E127,38,Male,Operations,Process Coordinator,58000,4,2020-06-25,12,Pune,MBA,Hybrid,No
+E128,53,Female,IT,Software Developer,71000,4,2025-11-18,23,Hyderabad,Master's,Hybrid,No
+E129,53,Male,Marketing,Content Specialist,38000,4,2020-11-07,23,Chennai,Master's,On-site,No
+E130,49,Male,Finance,Payroll Specialist,61000,3,2020-03-04,19,Bengaluru,Bachelor's,Remote,No
+E131,25,Female,Operations,Process Coordinator,42000,4,2021-05-03,2,Nashik,Master's,Hybrid,No
+E132,43,Female,IT,Data Analyst,83000,4,2021-05-25,13,Pune,MBA,Remote,No
+E133,29,Male,Sales,Business Development Executive,59000,4,2017-03-16,5,Mumbai,MBA,Hybrid,No
+E134,29,Male,Finance,Accountant,42000,3,2025-11-03,3,Delhi,Bachelor's,Remote,No
+E135,45,Male,HR,Recruiter,40000,3,2024-10-08,19,Mumbai,Diploma,On-site,No
+E136,36,Female,Sales,Business Development Executive,50000,4,2025-10-16,10,Mumbai,MBA,Hybrid,No
+E137,49,Female,Finance,Finance Executive,56000,4,2022-08-22,20,Mumbai,Master's,Remote,No
+E138,24,Female,Finance,Finance Executive,61000,4,2018-02-25,4,Nashik,Bachelor's,Hybrid,No
+E139,38,Female,IT,Data Analyst,74000,3,2021-11-27,9,Mumbai,Diploma,Hybrid,No
+E140,24,Female,IT,QA Engineer,74000,3,2021-05-01,0,Pune,MBA,On-site,No
+E141,30,Male,Operations,Process Coordinator,38000,3,2022-04-20,8,Nashik,Diploma,Hybrid,No
+E142,26,Male,Marketing,Marketing Executive,51000,3,2018-09-05,5,Delhi,Diploma,On-site,No
+E143,40,Male,HR,Recruiter,36000,3,2024-03-02,16,Pune,Bachelor's,Hybrid,No
+E144,53,Male,Marketing,Marketing Executive,44000,3,2017-01-07,22,Delhi,Diploma,On-site,No
+E145,54,Female,Operations,Operations Executive,40000,5,2023-02-07,23,Delhi,Bachelor's,Hybrid,No
+E146,45,Female,Sales,Sales Executive,48000,4,2021-01-02,19,Mumbai,Bachelor's,Remote,Yes
+E147,29,Male,Operations,Process Coordinator,58000,4,2024-03-17,4,Chennai,Diploma,Remote,No
+E148,29,Male,Sales,Sales Analyst,61000,1,2019-04-06,3,Pune,MBA,Hybrid,No
+E149,55,Female,Marketing,Content Specialist,51000,1,2024-04-03,21,Nashik,Bachelor's,Remote,No
+E150,28,Female,HR,HR Analyst,48000,5,2025-05-03,5,Hyderabad,MBA,On-site,No
+E151,44,Female,Sales,Sales Manager,37000,4,2017-11-20,15,Nashik,Master's,Remote,No
+E152,27,Male,HR,HR Analyst,45000,4,2020-06-09,4,Hyderabad,Master's,Remote,No
+E153,49,Male,Sales,Business Development Executive,54000,4,2021-11-17,18,Nashik,Bachelor's,On-site,No
+E154,44,Male,Operations,Operations Manager,37000,3,2023-10-25,17,Pune,Master's,On-site,No
+E155,44,Female,Finance,Finance Executive,40000,4,2024-08-13,15,Bengaluru,Diploma,On-site,No
+E156,54,Female,Marketing,Digital Marketing Specialist,60000,3,2020-02-16,20,Pune,Master's,Hybrid,No
+E157,28,Female,Marketing,Content Specialist,51000,4,2019-05-29,6,Hyderabad,Master's,On-site,No
+E158,49,Male,Finance,Financial Analyst,66000,5,2024-08-25,22,Chennai,MBA,Remote,No
+E159,40,Male,IT,System Administrator,82000,3,2021-01-20,14,Mumbai,Master's,On-site,No
+E160,44,Female,Sales,Sales Executive,61000,4,2023-03-10,13,Pune,Bachelor's,Hybrid,No
+E161,54,Female,Sales,Sales Manager,58000,5,2017-10-30,20,Chennai,Bachelor's,Hybrid,No
+E162,29,Male,Sales,Business Development Executive,40000,3,2017-08-15,9,Mumbai,MBA,On-site,No
+E163,35,Female,Finance,Finance Executive,71000,5,2017-11-20,9,Delhi,MBA,On-site,No
+E164,55,Male,Operations,Process Coordinator,68000,4,2023-08-22,24,Chennai,MBA,Remote,No
+E165,26,Male,IT,Software Developer,83000,4,2019-12-21,6,Delhi,Diploma,Remote,No
+E166,52,Female,Operations,Operations Executive,55000,4,2024-09-06,21,Pune,Bachelor's,On-site,No
+E167,51,Female,Sales,Sales Manager,45000,3,2018-08-12,19,Bengaluru,MBA,Hybrid,No
+E168,53,Male,Finance,Finance Executive,58000,3,2018-05-17,20,Mumbai,Bachelor's,On-site,No
+E169,47,Male,HR,Training Coordinator,65000,5,2018-10-17,20,Delhi,MBA,On-site,No
+E170,53,Female,Finance,Payroll Specialist,69000,5,2022-07-31,18,Hyderabad,Diploma,On-site,No
+E171,24,Male,Finance,Finance Executive,56000,4,2024-05-03,4,Delhi,Bachelor's,On-site,No
+E172,37,Female,Sales,Sales Analyst,57000,3,2021-06-29,8,Mumbai,MBA,Remote,No
+E173,45,Female,HR,HR Executive,59000,4,2023-12-28,18,Mumbai,Bachelor's,Hybrid,No
+E174,44,Male,HR,HR Analyst,41000,4,2021-07-03,16,Pune,Master's,Remote,Yes
+E175,54,Female,HR,Training Coordinator,39000,4,2022-10-13,20,Delhi,MBA,On-site,No
+E176,42,Female,Sales,Business Development Executive,68000,3,2017-03-10,13,Pune,Diploma,Remote,No
+E177,51,Female,HR,HR Executive,65000,4,2025-09-15,21,Chennai,Bachelor's,Remote,No
+E178,54,Female,Sales,Sales Analyst,41000,5,2019-09-20,19,Chennai,Bachelor's,On-site,No
+E179,41,Female,IT,QA Engineer,51000,3,2019-04-16,14,Delhi,Diploma,Remote,No
+E180,29,Male,Operations,Operations Executive,56000,5,2022-05-14,7,Mumbai,Diploma,Remote,No
+E181,37,Female,HR,HR Analyst,41000,5,2020-02-17,12,Bengaluru,MBA,Remote,No
+E182,41,Female,Finance,Payroll Specialist,60000,4,2025-12-02,16,Pune,Diploma,Hybrid,No
+E183,39,Male,HR,Recruiter,44000,5,2017-11-20,11,Chennai,MBA,Remote,No
+E184,33,Female,Sales,Sales Analyst,67000,4,2018-07-17,5,Delhi,Master's,On-site,No
+E185,35,Male,IT,Data Analyst,48000,3,2025-01-17,10,Nashik,Master's,On-site,No
+E186,47,Female,Marketing,Digital Marketing Specialist,65000,4,2025-06-24,16,Chennai,Bachelor's,On-site,No
+E187,55,Male,Operations,Operations Analyst,47000,3,2018-12-22,20,Hyderabad,Diploma,On-site,No
+E188,23,Male,Operations,Process Coordinator,55000,4,2018-03-16,1,Chennai,Diploma,On-site,No
+E189,38,Male,Marketing,Content Specialist,42000,3,2025-03-14,12,Chennai,Master's,On-site,No
+E190,39,Male,Operations,Process Coordinator,47000,4,2024-03-01,12,Delhi,MBA,On-site,No
+E191,32,Male,Sales,Sales Executive,62000,3,2019-10-14,5,Mumbai,Diploma,Hybrid,No
+E192,21,Female,HR,HR Analyst,55000,3,2019-08-26,0,Hyderabad,MBA,On-site,No
+E193,28,Female,Sales,Business Development Executive,55000,4,2019-06-17,3,Hyderabad,MBA,Hybrid,No
+E194,55,Male,Operations,Operations Manager,51000,4,2023-09-07,25,Delhi,Diploma,Remote,No
+E195,25,Male,Operations,Process Coordinator,39000,5,2022-09-02,1,Mumbai,Master's,Hybrid,No
+E196,28,Male,Marketing,Content Specialist,66000,2,2022-09-22,5,Hyderabad,Master's,Remote,No
+E197,24,Female,Sales,Sales Manager,51000,4,2021-06-10,1,Chennai,Master's,Remote,No
+E198,48,Female,IT,Software Developer,46000,4,2017-09-04,15,Hyderabad,Bachelor's,Hybrid,No
+E199,29,Female,Sales,Sales Analyst,55000,5,2021-04-16,6,Hyderabad,Diploma,On-site,No
+E200,43,Male,Operations,Operations Analyst,47000,5,2021-05-29,16,Mumbai,Bachelor's,On-site,No
+E201,55,Female,HR,Training Coordinator,52000,3,2019-07-30,21,Mumbai,MBA,On-site,No
+E202,23,Female,Operations,Operations Executive,37000,3,2017-10-03,0,Hyderabad,Bachelor's,On-site,No
+E203,46,Female,Operations,Operations Executive,50000,4,2025-06-17,20,Mumbai,MBA,On-site,No
+E204,41,Male,Operations,Process Coordinator,55000,5,2024-05-28,15,Bengaluru,MBA,On-site,No
+E205,48,Female,Marketing,Digital Marketing Specialist,38000,5,2024-03-20,20,Delhi,MBA,Remote,No
+E206,30,Female,Sales,Sales Manager,56000,3,2023-01-13,6,Mumbai,MBA,Remote,No
+E207,24,Female,Finance,Payroll Specialist,64000,4,2018-07-04,2,Mumbai,MBA,Remote,No
+E208,44,Male,IT,QA Engineer,76000,4,2019-02-20,12,Chennai,Bachelor's,On-site,No
+E209,51,Male,Finance,Accountant,59000,3,2017-03-04,18,Chennai,Bachelor's,Remote,No
+E210,34,Female,Sales,Sales Analyst,47000,4,2025-09-12,8,Delhi,MBA,Hybrid,No
+E211,53,Female,HR,HR Analyst,49000,2,2025-02-07,21,Bengaluru,Master's,Hybrid,No
+E212,23,Male,HR,Training Coordinator,58000,3,2019-12-05,3,Delhi,Diploma,Hybrid,No
+E213,42,Male,Finance,Accountant,62000,4,2019-10-04,14,Chennai,MBA,Hybrid,No
+E214,50,Male,Sales,Sales Manager,54000,3,2025-01-29,20,Delhi,Bachelor's,Remote,No
+E215,24,Male,IT,Software Developer,68000,2,2024-01-28,0,Mumbai,Bachelor's,On-site,Yes
+E216,44,Male,Marketing,Content Specialist,65000,4,2017-03-06,12,Hyderabad,Bachelor's,On-site,No
+E217,55,Female,Marketing,Marketing Analyst,36000,4,2024-10-29,25,Mumbai,Bachelor's,On-site,No
+E218,36,Male,Marketing,Digital Marketing Specialist,68000,3,2020-12-22,9,Pune,MBA,Hybrid,No
+E219,35,Female,Sales,Sales Analyst,37000,4,2024-04-15,13,Hyderabad,Diploma,Hybrid,Yes
+E220,24,Male,Marketing,Content Specialist,45000,2,2021-11-13,4,Delhi,Bachelor's,Remote,No
+E221,34,Female,IT,Data Analyst,59000,2,2017-11-01,11,Delhi,Bachelor's,On-site,No
+E222,34,Male,HR,HR Executive,59000,5,2021-06-20,6,Delhi,Master's,Remote,No
+E223,45,Male,Sales,Business Development Executive,37000,4,2020-11-17,13,Mumbai,Bachelor's,Hybrid,No
+E224,41,Male,Marketing,Content Specialist,52000,4,2022-01-20,14,Delhi,Diploma,Hybrid,No
+E225,26,Female,Finance,Payroll Specialist,53000,4,2017-12-03,3,Chennai,Master's,Remote,No
+E226,44,Male,Sales,Business Development Executive,37000,1,2020-06-16,15,Bengaluru,Bachelor's,On-site,No
+E227,48,Female,IT,Data Analyst,77000,4,2021-07-30,15,Bengaluru,Bachelor's,Remote,Yes
+E228,45,Male,Marketing,Marketing Analyst,53000,3,2025-09-27,13,Delhi,Master's,Remote,No
+E229,45,Male,Marketing,Digital Marketing Specialist,43000,3,2020-01-05,16,Mumbai,Diploma,Hybrid,No
+E230,51,Male,Sales,Business Development Executive,55000,3,2019-10-08,22,Delhi,Master's,Hybrid,No
+E231,40,Male,IT,Data Analyst,67000,3,2023-12-16,13,Bengaluru,Diploma,Hybrid,No
+E232,40,Female,Sales,Sales Analyst,70000,5,2019-04-03,13,Hyderabad,MBA,Hybrid,No
+E233,36,Female,Operations,Operations Manager,60000,3,2025-10-24,10,Delhi,Master's,Remote,No
+E234,22,Female,Marketing,Digital Marketing Specialist,48000,3,2020-04-08,4,Nashik,Diploma,Remote,No
+E235,40,Male,Sales,Sales Analyst,48000,4,2025-01-08,13,Pune,Diploma,Remote,No
+E236,55,Female,Sales,Sales Manager,66000,1,2021-01-12,25,Delhi,Bachelor's,On-site,No
+E237,31,Male,Finance,Finance Executive,63000,5,2020-09-20,10,Pune,Bachelor's,Hybrid,No
+E238,49,Female,Finance,Accountant,63000,4,2024-08-15,20,Mumbai,MBA,On-site,No
+E239,39,Female,Sales,Sales Executive,37000,2,2025-03-10,10,Bengaluru,Diploma,On-site,No
+E240,43,Female,Marketing,Content Specialist,41000,3,2024-10-24,15,Bengaluru,Bachelor's,Remote,No
+E241,42,Male,IT,Software Developer,85000,4,2025-04-22,12,Delhi,Master's,Hybrid,No
+E242,50,Male,Marketing,Content Specialist,60000,4,2019-02-03,21,Hyderabad,Bachelor's,Remote,No
+E243,49,Female,Marketing,Digital Marketing Specialist,59000,1,2019-05-30,17,Chennai,Bachelor's,Remote,No
+E244,44,Female,IT,Data Analyst,54000,4,2019-12-11,17,Delhi,MBA,Remote,No
+E245,28,Female,Sales,Sales Manager,54000,5,2023-12-04,3,Chennai,MBA,Remote,No
+E246,29,Female,Marketing,Marketing Executive,42000,3,2018-04-25,4,Mumbai,Diploma,Hybrid,No
+E247,45,Female,Marketing,Digital Marketing Specialist,46000,4,2023-01-11,18,Mumbai,Master's,Hybrid,No
+E248,32,Female,HR,Recruiter,61000,4,2017-08-08,11,Pune,Diploma,On-site,No
+E249,53,Female,Finance,Payroll Specialist,64000,4,2021-08-30,23,Hyderabad,Master's,On-site,No
+E250,35,Female,Marketing,Marketing Executive,37000,3,2023-01-12,9,Hyderabad,Diploma,Remote,No
+E251,28,Female,Marketing,Marketing Executive,58000,4,2025-06-27,2,Hyderabad,Master's,Hybrid,No
+E252,40,Male,IT,Data Analyst,70000,3,2017-12-23,13,Pune,Master's,On-site,No
+E253,48,Male,Operations,Process Coordinator,44000,4,2019-04-28,21,Bengaluru,MBA,Remote,Yes
+E254,41,Female,Marketing,Digital Marketing Specialist,53000,4,2022-10-09,16,Mumbai,Diploma,On-site,No
+E255,29,Male,HR,Recruiter,39000,4,2019-10-11,9,Hyderabad,Diploma,On-site,No
+E256,47,Female,Marketing,Marketing Analyst,63000,2,2025-11-29,20,Delhi,MBA,Remote,Yes
+E257,52,Female,HR,Training Coordinator,53000,1,2025-09-06,24,Chennai,Diploma,Remote,No
+E258,25,Female,Operations,Process Coordinator,49000,5,2019-05-18,3,Nashik,MBA,Hybrid,No
+E259,52,Female,Marketing,Digital Marketing Specialist,38000,2,2024-01-09,24,Pune,Bachelor's,On-site,No
+E260,21,Female,Sales,Sales Manager,44000,5,2018-06-25,3,Nashik,MBA,On-site,No
+E261,37,Male,Operations,Process Coordinator,59000,4,2024-04-11,9,Chennai,MBA,Remote,Yes
+E262,48,Male,Operations,Operations Analyst,42000,1,2022-05-08,15,Mumbai,Diploma,On-site,Yes
+E263,28,Female,IT,System Administrator,50000,4,2019-07-27,5,Nashik,Bachelor's,On-site,No
+E264,40,Male,HR,HR Analyst,47000,4,2025-06-12,16,Chennai,Master's,On-site,No
+E265,31,Female,Marketing,Marketing Executive,57000,4,2024-01-17,9,Hyderabad,Diploma,On-site,No
+E266,29,Male,IT,Software Developer,79000,4,2020-12-10,6,Mumbai,Master's,Hybrid,No
+E267,36,Female,Operations,Operations Executive,37000,5,2024-05-20,9,Delhi,Master's,Remote,No
+E268,24,Male,Sales,Business Development Executive,63000,3,2019-09-15,2,Pune,Bachelor's,Hybrid,No
+E269,45,Female,HR,Recruiter,46000,4,2018-12-09,19,Nashik,Bachelor's,On-site,No
+E270,21,Female,Marketing,Marketing Executive,48000,1,2017-09-05,4,Bengaluru,Diploma,Hybrid,No
+E271,26,Male,Operations,Operations Manager,53000,2,2017-11-20,5,Nashik,Master's,Remote,No
+E272,25,Female,HR,Training Coordinator,57000,3,2019-09-05,0,Hyderabad,Bachelor's,Hybrid,No
+E273,40,Male,Marketing,Marketing Executive,42000,1,2018-07-17,15,Hyderabad,MBA,Remote,Yes
+E274,31,Female,Marketing,Marketing Analyst,43000,4,2020-01-06,9,Nashik,Bachelor's,Hybrid,No
+E275,54,Male,Sales,Business Development Executive,48000,4,2023-06-20,24,Hyderabad,MBA,On-site,No
+E276,44,Male,Sales,Sales Analyst,48000,4,2023-06-09,17,Mumbai,Bachelor's,On-site,No
+E277,23,Female,IT,Data Analyst,65000,3,2018-09-07,0,Nashik,Bachelor's,Remote,No
+E278,35,Female,Operations,Operations Manager,51000,3,2025-01-29,9,Pune,MBA,On-site,No
+E279,32,Male,Marketing,Marketing Executive,68000,5,2021-07-01,5,Nashik,MBA,Hybrid,No
+E280,50,Male,HR,HR Executive,46000,3,2023-04-29,22,Delhi,Master's,Hybrid,No
+E281,33,Male,HR,Training Coordinator,39000,1,2021-08-07,5,Bengaluru,Bachelor's,Hybrid,No
+E282,40,Male,IT,QA Engineer,55000,4,2019-09-03,13,Pune,Master's,Remote,No
+E283,23,Male,HR,HR Executive,63000,5,2021-08-19,4,Hyderabad,Bachelor's,Remote,No
+E284,46,Male,IT,Data Analyst,79000,4,2021-11-17,19,Mumbai,MBA,Hybrid,No
+E285,41,Female,HR,Training Coordinator,49000,3,2017-11-02,12,Nashik,Bachelor's,On-site,No
+E286,49,Female,IT,Data Analyst,62000,3,2023-01-05,18,Mumbai,Diploma,Hybrid,No
+E287,28,Male,Sales,Business Development Executive,42000,4,2020-05-31,8,Delhi,Bachelor's,On-site,No
+E288,26,Male,HR,Recruiter,65000,3,2022-10-05,1,Bengaluru,Master's,On-site,No
+E289,36,Male,Sales,Sales Manager,61000,2,2025-11-26,8,Pune,Master's,On-site,Yes
+E290,44,Male,Finance,Payroll Specialist,54000,5,2017-11-04,12,Mumbai,Diploma,On-site,No
+E291,28,Male,IT,System Administrator,71000,2,2023-06-09,5,Hyderabad,Diploma,On-site,No
+E292,32,Female,Sales,Sales Manager,45000,5,2020-02-01,7,Mumbai,Bachelor's,Remote,No
+E293,39,Female,Marketing,Digital Marketing Specialist,61000,5,2022-05-17,9,Hyderabad,Master's,Hybrid,No
+E294,55,Male,Finance,Accountant,62000,4,2021-01-10,23,Hyderabad,MBA,Remote,No
+E295,45,Female,Marketing,Marketing Analyst,46000,1,2023-09-12,14,Nashik,MBA,On-site,Yes
+E296,35,Male,Sales,Business Development Executive,38000,3,2019-09-15,9,Nashik,Bachelor's,On-site,No
+E297,43,Male,Marketing,Content Specialist,46000,3,2020-07-26,18,Bengaluru,Bachelor's,Remote,No
+E298,30,Male,Operations,Process Coordinator,67000,4,2018-12-21,6,Pune,Master's,Remote,Yes
+E299,54,Female,Finance,Financial Analyst,38000,3,2023-11-21,20,Bengaluru,Master's,Hybrid,No
+E300,30,Male,IT,Software Developer,49000,5,2021-02-03,3,Chennai,Diploma,Remote,No
+E301,40,Female,IT,System Administrator,50000,5,2025-03-19,13,Hyderabad,MBA,On-site,No
+E302,35,Male,Operations,Process Coordinator,60000,3,2024-09-21,9,Chennai,Bachelor's,Remote,No
+E303,23,Male,Marketing,Content Specialist,55000,5,2023-11-10,0,Pune,Diploma,On-site,No
+E304,36,Female,HR,HR Executive,45000,3,2017-12-30,13,Chennai,MBA,Hybrid,No
+E305,34,Male,IT,System Administrator,46000,3,2025-10-29,6,Pune,Diploma,Hybrid,No
+E306,31,Female,Operations,Operations Manager,67000,5,2020-12-09,8,Nashik,Diploma,Remote,No
+E307,31,Female,Operations,Operations Analyst,40000,4,2017-05-17,6,Bengaluru,Bachelor's,On-site,Yes
+E308,45,Male,HR,Recruiter,58000,2,2018-01-17,15,Delhi,Diploma,Remote,No
+E309,31,Female,IT,QA Engineer,52000,2,2020-09-18,5,Hyderabad,MBA,Remote,No
+E310,36,Male,HR,HR Analyst,36000,3,2023-03-02,13,Pune,MBA,On-site,No
+E311,39,Female,Sales,Sales Executive,44000,2,2019-04-28,10,Pune,Diploma,On-site,No
+E312,51,Female,HR,Training Coordinator,63000,4,2018-01-09,22,Mumbai,MBA,Hybrid,No
+E313,49,Male,HR,Recruiter,43000,3,2019-12-15,17,Delhi,Bachelor's,On-site,No
+E314,26,Female,Operations,Operations Executive,70000,3,2025-06-26,5,Pune,Diploma,Remote,No
+E315,36,Female,Sales,Sales Manager,51000,2,2025-01-04,7,Delhi,Master's,On-site,No
+E316,31,Male,Sales,Sales Analyst,44000,2,2021-10-01,4,Hyderabad,Master's,Remote,No
+E317,41,Male,Finance,Finance Executive,43000,3,2021-06-16,15,Bengaluru,Diploma,On-site,No
+E318,28,Female,Operations,Operations Manager,45000,3,2023-08-06,6,Pune,Bachelor's,Remote,No
+E319,55,Female,IT,System Administrator,68000,3,2024-05-06,23,Hyderabad,Bachelor's,On-site,No
+E320,30,Female,HR,Training Coordinator,36000,3,2020-09-19,8,Chennai,Diploma,Hybrid,No
+E321,42,Female,HR,HR Executive,44000,3,2022-07-07,17,Pune,Master's,On-site,No
+E322,41,Female,HR,Training Coordinator,58000,3,2024-03-29,11,Mumbai,Diploma,Remote,No
+E323,24,Male,Sales,Business Development Executive,36000,3,2022-09-07,2,Nashik,Bachelor's,On-site,No
+E324,24,Male,Finance,Accountant,40000,4,2021-01-16,4,Bengaluru,Diploma,Remote,No
+E325,22,Male,Sales,Sales Executive,55000,4,2022-01-02,0,Hyderabad,MBA,Hybrid,No
+E326,26,Female,Finance,Finance Executive,39000,3,2018-10-30,7,Mumbai,Master's,Remote,No
+E327,38,Female,Finance,Accountant,70000,1,2025-10-02,15,Hyderabad,Master's,Remote,No
+E328,35,Female,Finance,Financial Analyst,57000,4,2024-12-15,12,Hyderabad,MBA,Hybrid,No
+E329,50,Female,HR,Recruiter,56000,4,2023-12-30,19,Pune,MBA,Remote,No
+E330,40,Male,Operations,Process Coordinator,66000,2,2020-02-07,15,Bengaluru,MBA,Remote,No
+E331,33,Male,Operations,Process Coordinator,69000,4,2017-08-21,11,Nashik,Diploma,Remote,No
+E332,22,Female,HR,Recruiter,44000,3,2021-09-11,1,Pune,Master's,Hybrid,No
+E333,55,Female,Operations,Operations Analyst,58000,4,2018-11-28,25,Delhi,Master's,Hybrid,No
+E334,29,Female,IT,QA Engineer,77000,4,2019-01-20,8,Chennai,Bachelor's,On-site,No
+E335,40,Female,HR,Recruiter,60000,5,2021-03-03,12,Hyderabad,Bachelor's,Hybrid,No
+E336,51,Male,IT,Software Developer,74000,2,2024-08-20,20,Hyderabad,Bachelor's,On-site,No
+E337,42,Female,Finance,Accountant,67000,3,2025-01-10,12,Hyderabad,MBA,Remote,No
+E338,24,Male,Finance,Finance Executive,66000,3,2025-07-15,5,Nashik,Master's,Hybrid,No
+E339,48,Female,IT,Data Analyst,67000,3,2022-05-10,18,Delhi,Master's,Remote,Yes
+E340,41,Male,HR,HR Executive,35000,4,2024-01-11,16,Chennai,MBA,Hybrid,No
+E341,45,Female,Finance,Financial Analyst,48000,2,2017-07-07,15,Hyderabad,MBA,Hybrid,No
+E342,42,Female,Operations,Operations Analyst,58000,4,2018-11-07,17,Mumbai,Master's,Remote,No
+E343,22,Male,Finance,Accountant,45000,3,2024-04-18,4,Chennai,MBA,Remote,Yes
+E344,24,Male,Marketing,Marketing Executive,36000,2,2018-04-20,2,Pune,MBA,Hybrid,No
+E345,34,Male,Operations,Operations Analyst,55000,3,2018-02-18,11,Delhi,Master's,Hybrid,No
+E346,39,Male,IT,Software Developer,48000,4,2023-10-31,10,Nashik,Master's,Hybrid,No
+E347,39,Male,Operations,Operations Manager,38000,4,2019-05-01,14,Bengaluru,Master's,On-site,No
+E348,28,Female,IT,Software Developer,51000,5,2025-09-28,6,Chennai,Bachelor's,Hybrid,No
+E349,50,Female,Operations,Operations Analyst,52000,4,2018-02-13,22,Pune,MBA,Hybrid,No
+E350,48,Male,Operations,Process Coordinator,42000,5,2017-07-07,15,Chennai,Master's,Hybrid,No
+E351,38,Male,HR,Training Coordinator,46000,4,2019-01-20,9,Hyderabad,MBA,Hybrid,No
+E352,47,Male,Operations,Operations Manager,43000,2,2025-02-23,14,Nashik,Master's,On-site,No
+E353,49,Male,Sales,Sales Manager,56000,4,2023-11-10,16,Nashik,Master's,Hybrid,No
+E354,47,Female,Sales,Sales Executive,34000,2,2024-05-06,16,Nashik,Master's,Remote,Yes
+E355,48,Male,HR,HR Executive,50000,3,2024-08-02,20,Nashik,Bachelor's,On-site,No
+E356,53,Female,Operations,Operations Analyst,67000,5,2017-11-03,24,Mumbai,MBA,Hybrid,No
+E357,45,Female,IT,Data Analyst,57000,2,2021-12-25,19,Pune,Diploma,Hybrid,No
+E358,52,Male,HR,HR Executive,38000,3,2017-05-27,22,Nashik,Bachelor's,Remote,No
+E359,53,Male,Marketing,Marketing Analyst,64000,5,2021-01-28,24,Mumbai,Diploma,Hybrid,Yes
+E360,44,Female,Marketing,Content Specialist,42000,2,2024-05-22,13,Bengaluru,MBA,Remote,Yes
+E361,27,Male,Marketing,Marketing Analyst,45000,4,2025-01-15,6,Pune,MBA,Remote,No
+E362,28,Female,Finance,Accountant,51000,4,2025-10-06,3,Pune,Diploma,On-site,No
+E363,49,Female,Operations,Operations Executive,68000,2,2022-08-06,16,Pune,Diploma,Remote,No
+E364,32,Male,Sales,Sales Analyst,38000,3,2023-09-26,9,Delhi,Diploma,Hybrid,No
+E365,38,Female,Marketing,Digital Marketing Specialist,56000,5,2022-01-29,15,Hyderabad,MBA,Remote,No
+E366,34,Male,Marketing,Marketing Analyst,48000,4,2020-04-05,11,Chennai,Master's,Remote,No
+E367,53,Female,Operations,Operations Analyst,43000,4,2023-04-23,21,Chennai,Diploma,Remote,No
+E368,48,Male,Operations,Process Coordinator,69000,2,2021-04-10,16,Pune,Master's,Hybrid,Yes
+E369,37,Male,Finance,Finance Executive,41000,4,2020-04-23,9,Pune,MBA,Hybrid,No
+E370,45,Male,IT,Data Analyst,74000,4,2025-12-16,18,Chennai,Bachelor's,Hybrid,No
+E371,41,Male,Sales,Sales Manager,32000,4,2019-04-12,15,Nashik,Diploma,On-site,No
+E372,55,Male,Operations,Process Coordinator,48000,3,2018-12-28,25,Mumbai,Bachelor's,Hybrid,No
+E373,38,Female,IT,QA Engineer,50000,3,2019-11-11,9,Chennai,Master's,On-site,No
+E374,24,Female,Finance,Finance Executive,69000,4,2023-03-04,1,Chennai,MBA,Remote,Yes
+E375,54,Male,Finance,Accountant,70000,3,2023-02-03,23,Bengaluru,Master's,On-site,No
+E376,42,Female,Operations,Process Coordinator,54000,3,2025-06-10,15,Delhi,Bachelor's,On-site,No
+E377,49,Male,Operations,Process Coordinator,51000,5,2024-08-27,18,Nashik,Bachelor's,Hybrid,No
+E378,22,Female,HR,HR Analyst,51000,4,2021-12-31,1,Chennai,Master's,Hybrid,Yes
+E379,27,Male,Marketing,Marketing Executive,35000,4,2019-05-14,6,Mumbai,Diploma,On-site,No
+E380,25,Male,Finance,Payroll Specialist,39000,4,2020-09-20,0,Pune,Master's,Hybrid,Yes
+E381,35,Female,Marketing,Marketing Executive,61000,3,2024-01-26,10,Pune,Diploma,Remote,No
+E382,25,Male,IT,Software Developer,46000,3,2022-08-22,0,Chennai,MBA,Remote,No
+E383,49,Female,IT,System Administrator,67000,5,2017-05-07,19,Mumbai,Master's,Remote,No
+E384,30,Female,Sales,Business Development Executive,55000,5,2017-02-15,7,Mumbai,Bachelor's,On-site,No
+E385,55,Male,IT,QA Engineer,61000,3,2025-04-25,25,Hyderabad,Master's,On-site,No
+E386,37,Male,Finance,Accountant,45000,3,2025-12-20,12,Nashik,Diploma,Remote,No
+E387,39,Male,Marketing,Marketing Executive,51000,2,2025-02-20,13,Bengaluru,MBA,On-site,No
+E388,27,Female,Operations,Operations Analyst,40000,5,2020-07-25,4,Delhi,MBA,Remote,No
+E389,44,Female,Marketing,Digital Marketing Specialist,62000,3,2020-07-06,13,Chennai,Diploma,Hybrid,No
+E390,42,Female,HR,Recruiter,49000,4,2025-09-09,13,Pune,Master's,Remote,No
+E391,38,Male,Marketing,Marketing Executive,47000,3,2024-01-11,9,Pune,Bachelor's,Remote,No
+E392,34,Male,Marketing,Content Specialist,51000,4,2023-01-20,9,Mumbai,MBA,Hybrid,No
+E393,29,Female,Finance,Finance Executive,70000,4,2021-06-14,5,Chennai,Master's,Remote,No
+E394,53,Male,Operations,Operations Analyst,64000,3,2023-05-09,22,Mumbai,Diploma,Hybrid,No
+E395,52,Male,IT,Data Analyst,46000,3,2019-08-17,18,Delhi,MBA,Hybrid,No
+E396,23,Male,Sales,Sales Manager,52000,2,2022-11-06,4,Nashik,MBA,Remote,No
+E397,45,Female,Marketing,Digital Marketing Specialist,58000,4,2017-11-15,17,Mumbai,Diploma,Hybrid,No
+E398,51,Male,HR,Training Coordinator,51000,5,2021-12-07,18,Delhi,MBA,On-site,No
+E399,31,Female,Finance,Accountant,45000,4,2021-08-26,10,Pune,Diploma,Remote,No
+E400,34,Male,Sales,Sales Manager,58000,1,2017-06-26,7,Mumbai,Master's,Remote,No
